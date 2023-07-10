@@ -61,10 +61,10 @@ const Timer = (props) => {
                             width: 600,
                             padding: '3em',
                             color: '#716add',
-                            background: '#fff url("https://cdn.pixabay.com/photo/2012/03/01/00/21/bridge-19513_1280.jpg")',
+                            background: '#fff url("https://img.freepik.com/premium-vector/snowy-forest-background_23-2147975003.jpg?w=2000")',
                             backdrop: `
                                     rgba(0,0,123,0.4)
-                                    url("https://cdn.pixabay.com/animation/2022/10/04/00/46/00-46-44-880_512.gif")
+                                    url("https://i.gifer.com/PYh.gif")
                                     left top
                                     no-repeat
                                 `

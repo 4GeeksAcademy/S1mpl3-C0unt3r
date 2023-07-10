@@ -8,8 +8,8 @@ import "../styles/index.css";
 
 //import your own components
 import Home from "./component/home.jsx";
-import Counter from "./component/counter";
-import Timer from "./component/timer";
+import Counter from "./component/counter.jsx";
+import Timer from "./component/timer.jsx";
 
 
 
